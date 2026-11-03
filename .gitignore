@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Streamlit Local Cache (Keep config.toml, ignore user secrets)
+.streamlit/secrets.toml
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Session Telemetry CSV Logs (Keep sample_telemetry.csv in repo)
+run_*.csv

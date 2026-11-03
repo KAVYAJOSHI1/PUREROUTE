@@ -1,0 +1,11 @@
+district,state,arsenic,fluoride,nitrate,uranium,notes
+Bareilly,Uttar Pradesh,0,1,1,0,High Fluoride and Nitrate in localized groundwater pockets
+Ballia,Uttar Pradesh,1,0,1,0,Severe Arsenic exceedance along Ganga plains (>10 ug/L)
+Bathinda,Punjab,0,1,1,1,Critical Uranium and Nitrate contamination in deep aquifers
+Patna,Bihar,1,0,1,0,Arsenic contamination (>10 ug/L) and high nitrate
+Nadia,West Bengal,1,0,0,0,Historic high Arsenic belt (>10 ug/L)
+Nalgonda,Telangana,0,1,0,0,Endemic Fluoride geological zone (>1.5 mg/L)
+Kanpur Nagar,Uttar Pradesh,0,1,1,0,Industrial and agricultural Nitrate + Fluoride
+Jaipur,Rajasthan,0,1,1,1,Saline ground water with high Fluoride and Uranium
+South 24 Parganas,West Bengal,1,0,0,0,Severe Arsenic contamination
+Dhar,Madhya Pradesh,0,1,1,0,High Fluoride and localized Nitrate
